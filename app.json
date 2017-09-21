@@ -1,0 +1,19 @@
+{
+  "name": "My First Chatbot - Tutorial",
+  "description": "A starting point for building custom Facebook applications",
+  "repository": "https://github.com/nickballeste/tutorial-first-chatbot.git",
+  "keywords": ["node", "bots", "facebook","botkit"],
+  "success_url":"/",
+  "env": {
+      "page_token": {
+          "description": "Page Access Token provided by Facebook"
+      },
+      "verify_token": {
+          "description": "Webhook Verify Token, as configured in Facebook"
+      },
+      "studio_token": {
+          "description": "Token associated with your bot in Botkit Studio",
+          "required": false
+      }
+  }
+}

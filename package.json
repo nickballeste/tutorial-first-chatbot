@@ -1,0 +1,36 @@
+{
+  "name": "My First Chatbot - Tutorial",
+  "version": "0.0.1",
+  "description": "A starter-kit developed on top of a starter-kit but simplified.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botkit": "^0.6",
+    "dashbot": "0.7.4",
+    "debug": "^2.6.0",
+    "express": "^4.14.0",
+    "node-env-file": "^0.1.8",
+    "request": "^2.79.0",
+    "wordfilter": "^0.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickballeste/tutorial-first-chatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nickballeste/tutorial-first-chatbot.git/issues"
+  },
+  "homepage": "https://github.com/nickballeste/tutorial-first-chatbot.git",
+  "keywords": [
+    "bots",
+    "chatbots",
+    "Facebook",
+    "Messenger"
+  ],
+  "author": "nickballeste",
+  "license": "none"
+}
