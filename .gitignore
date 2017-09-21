@@ -1,4 +1,4 @@
-#src/.env
+./src/.env
 db
 node_modules
 components/routes/_*
