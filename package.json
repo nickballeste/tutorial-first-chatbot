@@ -1,5 +1,5 @@
 {
-  "name": "My First Chatbot - Tutorial",
+  "name": "MyFirstBotTutorial",
   "version": "0.0.1",
   "description": "A starter-kit developed on top of a starter-kit but simplified.",
   "main": "bot.js",
